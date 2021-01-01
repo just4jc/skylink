@@ -14,7 +14,7 @@
     "jsonfile": "^2.2.3",
     "passport": "*",
     "request": "^2.65.0",
-    "watson-developer-cloud": "^1.2.4"
+    "watson-developer-cloud": "^3.0.1"
   },
   "engines": {
     "node": "0.10.26"
