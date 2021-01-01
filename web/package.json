@@ -5,7 +5,7 @@
   "dependencies": {
     "archiver": "^1.0.1",
     "async": "^2.0.1",
-    "cf-deployment-tracker-client": "0.0.8",
+    "cf-deployment-tracker-client": "0.1.4",
     "cloudant": "^1.4.1",
     "connect-busboy": "*",
     "express": "4.*",
